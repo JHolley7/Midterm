@@ -1,19 +1,24 @@
 /* styles.css */
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,200..800&family=Felipa&family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Slabo+27px&display=swap');
-</style>
-h1 {
-font-family: Bricolage Grotesque
-}
+@import url('https://fonts.googleapis.com/css2?family=Climate&family=Climate+Crisis&family=Bricolage+Grotesque:opsz,wght@12..96,200..800&display=swap');
 
-<style>
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Lilita+One&display=swap');
-</style>
 body {
-font-family: Lilta One
+  font-family: 'Climate', 'Bricolage Grotesque', sans-serif;
+  margin: 0;
+  padding: 1rem;
+  color: rgba(122, 213, 229, 0.806);
+  background-color: rgba(0, 60, 255, 0.587);
 }
 
-h1 {
-color: dodgerblue
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Climate Crisis', sans-serif;
+  color: rgba(161, 222, 255, 0.78);
+}
+
+.climate-crisis-link {
+  font-family: 'Climate Crisis', sans-serif;
 }
