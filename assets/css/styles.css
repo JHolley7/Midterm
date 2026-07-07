@@ -2,6 +2,14 @@
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,200..800&family=Felipa&family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Slabo+27px&display=swap');
 </style>
-body {
+h1 {
 font-family: Bricolage Grotesque
+}
+
+<style>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Lilita+One&display=swap');
+</style>
+title {
+font-family: Lilta One
 }
